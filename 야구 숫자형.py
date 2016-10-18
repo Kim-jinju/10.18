@@ -1,5 +1,4 @@
 import random
-#ramdom한 수를 발생시키는 함수#
 
 prob_rn = [0, 0, 0]
 
