@@ -6,5 +6,4 @@ for i in range(len(a)):
             t = a[i]
             a[i] = a[j]
             a[j] = t
-
 print(a)
